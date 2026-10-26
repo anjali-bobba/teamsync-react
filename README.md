@@ -341,3 +341,5 @@ Deployed on `<Netlify / Vercel>`.
 ## License
 
 For educational/assessment purposes.
+#   t e a m s y n c - r e a c t  
+ 
